@@ -13,8 +13,9 @@
   ##
   
 <div>
-
+<!--
   <a href="https://instagram.com/jl.satan" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" target="_blank"></a>
+-->
   <a href="https://www.linkedin.com/in/joão-lucas-a460b421b" target="_blank"><img height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" target="_blank"></a>
 <a href = "mailto:lucas174.gamer@gmail.com"><img height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" target="_blank"></a>
 </div>
