@@ -1,4 +1,5 @@
-### Oii sou o João Lucas
+### Hello, World!
+### I'm João Lucas
 <div>
   <a href="https://github.com/JLucas09">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JLucas09&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
