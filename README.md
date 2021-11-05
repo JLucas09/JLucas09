@@ -9,6 +9,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="JL-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg">
+  <img align="center" alt="JL-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg">
 </div>
 
   ##
