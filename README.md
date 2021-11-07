@@ -3,13 +3,12 @@
 <div>
   <a href="https://github.com/JLucas09">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JLucas09&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <!--
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JLucas09&layout=compact&langs_count=7&theme=dracula"/>
--->
+
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="JL-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg">
-  <img align="center" alt="JL-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg">
+  <img align="center" alt="JL-PYTHON" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg">
 </div>
 
   ##
