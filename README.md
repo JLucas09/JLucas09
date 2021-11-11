@@ -23,5 +23,7 @@
 ##
 
 <!--Icons Social_Medias-->
-<a href="https://www.linkedin.com/in/joão-lucas-a460b421b" target="_blank"><img align="right" alt="Linkedin" width="29" src="https://cdn-icons.flaticon.com/png/512/4494/premium/4494471.png?token=exp=1636318960~hmac=a0b21f56df6a03be9492e9a5b6ec1b39" target="_blank" /></a>
-<a href = "mailto:lucas174.gamer@gmail.com"><img align="right" alt="Gmail" width="31" src="https://cdn-icons-png.flaticon.com/512/60/60543.png" target="_blank" /></a>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-lucas-a460b421b/" target="_blank">
+  <img align="right" alt="JL-linkedin" width="31" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg">
+<a href = "mailto:lucas174.gamer@gmail.com" target="_blank">
+  <img align="right" alt="JL_Gmail" width="31" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg">
