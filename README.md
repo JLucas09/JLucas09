@@ -11,8 +11,8 @@
 <!--Icons Languages-->
 ### **Languages**
 <div style="display: inline_block">
-<img align="center" alt="JL-HTML" width="27" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/html5.svg">
-<img align="center" alt="JL-PYTHON" width="27" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg">
+<img align="center" alt="JL-HTML" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="JL-Python" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 ### **Top Repositories**
@@ -24,6 +24,6 @@
 
 <!--Icons Social_Medias-->
 <a href="https://www.linkedin.com/in/jo%C3%A3o-lucas-a460b421b/" target="_blank">
-  <img align="right" alt="JL-linkedin" width="31" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg">
+  <img align="right" alt="JL-linkedin" width="35" src="https://img.icons8.com/fluency/48/000000/linkedin.png">
 <a href = "mailto:lucas174.gamer@gmail.com" target="_blank">
-  <img align="right" alt="JL_Gmail" width="31" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg">
+  <img align="right" alt="JL_Gmail" width="35" src="https://img.icons8.com/fluency/48/000000/gmail-new.png">
