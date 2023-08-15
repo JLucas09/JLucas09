@@ -13,6 +13,7 @@
 <div style="display: inline_block">
 <img align="center" alt="JL-C" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 <img align="center" alt="JL-Python" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="JL-Java" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
 ### **Top Repositories**
